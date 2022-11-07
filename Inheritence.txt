@@ -1,0 +1,8 @@
+Inheritence:
+        1.Base class from which derived class will inherits.
+        2.Types:
+            1.Single (A -> B) - Single Base and Derived class
+            2.Multiple (A,B,... -> C) - Multiple Base Classes as One Derived Class.
+            3.Hierarchical (A -> B,C,...) - Multiple Derived Class from One Base class.
+            4.Multilevel (A -> B -> C) - Deriving a class from already deriving class.
+            5.Hybrid (A -> B,C,... -> D) - Combination of Multiple and Multilevel Inheritence or Multiple and Hierarchical Inheritence.

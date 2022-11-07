@@ -1,0 +1,28 @@
+Helps to see programm with real-world scenario.
+Data Security Compromised.
+Works on concept of classes and objects.
+Treats data as critical element.
+
+Terminology of OOP's
+    1.Classes
+    2.Objects
+    3.Data Abstraction
+    4.Encapsulation
+    5.Inheritence
+    6.Polymorphism
+    7.Dynamic Binding
+    8.Message Passing
+
+Benefits
+    1.Code Reusebility
+    2.Multiple Objects exists.
+    3.Easily Software complexity can be managed.
+    4.Data Hiding helps build secure systems.
+
+C++ was initially called as - 'C with Classes'.
+classes are extension of structures.
+structures had limitations:
+    1.Members are public.
+    2.Cant able to use methods.
+classes can have members as private and also public.
+We can't assess private members outside class.
